@@ -1,4 +1,4 @@
-Blink(1) Control Puppet Module for Boxen
+Blink(1) Puppet Module for Boxen
 ================================================================================
 
 Install [Blink(1) Control](http://thingm.com/products/blink-1.html)
